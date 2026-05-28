@@ -115,5 +115,8 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👤 Developer
+# 👤 Developers
+Қуат — dizzder 
+Алишер — alisherboltayme
+Алдияр — Paxmetani
 
