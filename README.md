@@ -117,6 +117,3 @@ This project is licensed under the MIT License.
 
 # 👤 Developer
 
-Created by **Giyu Tamioka**
-
-> "Games are not just played. They are experienced."
