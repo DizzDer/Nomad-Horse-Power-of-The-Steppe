@@ -38,10 +38,10 @@ The goal is to create an experience that feels like playing through an interacti
 
 | Category        | Tools                         |
 | --------------- | ----------------------------- |
-| Engine          | Unreal Engine 5 (recommended) |
-| Language        | TBD                           |
+| Engine          | Unity |
+| Language        | ENG                           |
 | Version Control | Git + GitHub                  |
-| Audio           | TBD                           |
+| Audio           | ENG                           |
 | Art Pipeline    | TBD                           |
 
 ---
